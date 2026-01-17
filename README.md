@@ -7,12 +7,6 @@
 
 An AI-powered web application for detecting brain tumors from MRI scans using deep learning and computer vision techniques.
 
-## 🎯 Live Demo
-
-**[Try the app here →](https://your-app-url.streamlit.app)** *(Update this link after deployment)*
-
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Here)
-
 ## 📋 Overview
 
 This project implements a brain tumor detection system that analyzes MRI brain scans and classifies them as either containing a tumor or being tumor-free. The system uses transfer learning with ResNet50 for feature extraction and a Linear SVM classifier for prediction.
